@@ -7,4 +7,6 @@ This homework demonstrates building and querying a SQLite database via mostly Py
 Two CSV files are provided.  One with station information, and the other with station ids and readings.  The purpose of this homework is to clean the data via Python, and create a SQLite database in which to query and analyze data from using querying techniques via Python/SQLalchemy.  
 
 
-
+![](images/Capture1.png)
+![](images/Capture2.png)
+![](images/Capture3.png)
